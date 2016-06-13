@@ -1,0 +1,18 @@
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\chat.exe
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\chat.pdb
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\bin\Debug\chat.exe
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\bin\Debug\chat.pdb
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\chat.Properties.Resources.resources
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\server.csproj.GenerateResource.Cache
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\mehran\Desktop\Secure Chat\Chat-Server\chat\obj\x86\Debug\chat.exe
+C:\Users\mehran\Desktop\Secure Chat\Chat-Server\chat\obj\x86\Debug\chat.pdb
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\obj\x86\Debug\chat.exe
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\obj\x86\Debug\chat.pdb
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\bin\Debug\chat.exe
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\bin\Debug\chat.pdb
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\obj\x86\Debug\chat.Properties.Resources.resources
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\obj\x86\Debug\server.csprojResolveAssemblyReference.cache
+D:\Projects\C# & Asp.Net\Secure Chat\Chat-Server\chat\obj\x86\Debug\server.csproj.GenerateResource.Cache

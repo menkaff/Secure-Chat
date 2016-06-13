@@ -1,0 +1,8 @@
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\bin\Debug\chat.exe
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\bin\Debug\chat.pdb
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\obj\x86\Debug\chat.Properties.Resources.resources
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\obj\x86\Debug\chat.csproj.GenerateResource.Cache
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\obj\x86\Debug\chat.exe
+c:\users\mehran\documents\visual studio 2010\Projects\chat\chat\obj\x86\Debug\chat.pdb
+C:\Users\mehran\Documents\Visual Studio 2010\Projects\chat\chat\obj\x86\Debug\chat.csprojResolveAssemblyReference.cache
